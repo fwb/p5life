@@ -1,0 +1,5 @@
+.cache/
+dist/
+local/
+node_modules/
+fontawesome-all.min.js
